@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anisharkat](https://github.com/anisharkat)
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **anis.harkat.11@gmail.com**
 
