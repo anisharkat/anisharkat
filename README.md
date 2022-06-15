@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Anis Harkat</h1>
 <h3 align="center">A passionate Full-Stack developer from Algeria</h3>
 <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" alt="programmer">
