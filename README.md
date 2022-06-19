@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anis Harkat</h1>
 <h3 align="center">A passionate Full-Stack developer from Algeria</h3>
 
-- 🔭 I’m currently working on **SouqDz**
+- 🔭 I’m currently working on **TechBlog**
 
 - 🌱 I’m currently learning **react.js**
 
