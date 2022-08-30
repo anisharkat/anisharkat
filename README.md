@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://www.anis-harkat.tk](https://www.anis-harkat.tk)
+- 👨‍💻 All informations about me are available at [https://www.anis-harkat.tk](https://www.anis-harkat.tk)
 
 - 💬 Ask me about **Django**
 
