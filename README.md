@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anis Harkat</h1>
 <h3 align="center">A passionate Full-Stack developer from Algeria</h3>
 
-- 🔭 I’m currently working on **TechBlog**
+- 🔭 I’m currently working on **Library Management System**
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anisharkat](https://github.com/anisharkat)
+- 👨‍💻 All of my projects are available at [https://www.anis-harkat.tk](https://www.anis-harkat.tk)
 
 - 💬 Ask me about **Django**
 
