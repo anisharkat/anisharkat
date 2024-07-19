@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All informations about me are available at [https://www.anis-harkat.tk]([https://anis-harkat.netlify.app/](https://anis-harkat.netlify.app/))
+- 👨‍💻 All informations about me are available at [https://www.anis-harkat.tk/](https://anis-harkat.netlify.app/)
 
 - 💬 Ask me about **Django**
 
