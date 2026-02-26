@@ -1,28 +1,124 @@
+<div dir="rtl" align="right">
+
 <h1 align="center">Hi 👋, I'm Anis Harkat</h1>
-<h3 align="center">A passionate Full-Stack developer from Algeria</h3>
+<h3 align="center">Full‑Stack Developer from Algeria 🇩🇿 | Building modern web apps</h3>
 
-- 🌱 I’m currently learning **Next Js**
-
-- 👨‍💻 All informations about me are available at [https://www.anis-harkat.tk](https://anis-harkat.netlify.app/)
-
-- 💬 Ask me about **Django**
-
-- 📫 How to reach me **anis.harkat.11@gmail.com**
-
-- ⚡ **I love programming**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/anisharkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="anisharkat" height="30" width="40" /></a>
-<a href="https://dev.to/anis_harkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anis_harkat" height="30" width="40" /></a>
-<a href="https://twitter.com/_anisharkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_anisharkat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anis-harkat-88a2b8236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anis-harkat-88a2b8236" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/anis-harkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anis-harkat" height="30" width="40" /></a>
-<a href="https://fb.com/dhia.eddine.harkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhia.eddine.harkat" height="30" width="40" /></a>
-<a href="https://instagram.com/anis_harkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anis_harkat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anis harkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anis harkat" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anis_harkat_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anis_harkat_11" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://anisharkat.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-anisharkat.dev-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:anis.harkat.11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anis.harkat.11%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhia-eddine-harkat/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Anis%20Harkat-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/anisharkat" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-anisharkat-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://a.top4top.io/p_2374qnvun1.png" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anisharkat&label=Profile%20Views&color=0ea5e9&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/anisharkat?label=Followers&style=flat&color=22c55e" alt="followers" />
+  <img src="https://img.shields.io/github/stars/anisharkat?label=Stars&style=flat&color=f59e0b" alt="stars" />
+</p>
+
+---
+
+## 👨‍💻 نبذة سريعة عني
+- 🌱 أتعلم حاليًا: **Next.js**
+- 💬 اسألني عن: **Django / REST APIs**
+- ⚡ أحب البرمجة وبناء منتجات مفيدة وجميلة
+- 🌐 موقعي: **https://anisharkat.dev**
+- 📫 للتواصل: **anis.harkat.11@gmail.com**
+
+---
+
+## 🤝 تواصل معي
+<p align="left">
+  <a href="https://codepen.io/anisharkat" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+  <a href="https://dev.to/anis_harkat" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/_anisharkat" target="_blank">
+    <img src="https://img.shields.io/badge/X(Twitter)-111827?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/anis-harkat" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://fb.com/dhia.eddine.harkat" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/anis_harkat" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@anisharkat" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/anis_harkat_11" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+> 🟡 ملاحظة: عدّلت رابط YouTube ليكون بدون مسافات وبصيغة حديثة `@username`.  
+> إذا كان يوتيوبك مختلفًا، أرسل الرابط الصحيح وسأعدّله مباشرة.
+
+---
+
+## 🧰 المهارات والتقنيات (Tech Stack)
+
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-0ea5e9?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7c3aed?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-2563eb?style=for-the-badge&logo=css3&logoColor=white" />
+
+### 🧠 Backend
+<img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-0f766e?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-22c55e?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+### 🗄️ Database
+<img src="https://img.shields.io/badge/PostgreSQL-1d4ed8?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+### ⚙️ Tools
+<img src="https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Heroku-6d28d9?style=for-the-badge&logo=heroku&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-2563eb?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-1e40af?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Qt-16a34a?style=for-the-badge&logo=qt&logoColor=white" />
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anisharkat&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=anisharkat&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisharkat&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Projects (اختياري — ضع أهم مشاريعك هنا)
+- **Project Name** — وصف سريع + تقنيات مستخدمة  
+  🔗 Live: https://... | 💻 Repo: https://...
+- **Project Name** — وصف سريع + تقنيات مستخدمة  
+  🔗 Live: https://... | 💻 Repo: https://...
+
+---
+
+<p align="center">
+  <i>“Build. Learn. Ship.”</i> 🚀
+</p>
+
+</div>
