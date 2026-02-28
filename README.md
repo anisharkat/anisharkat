@@ -1,124 +1,106 @@
-<div dir="rtl" align="right">
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Anis Harkat</h1>
-<h3 align="center">Full‑Stack Developer from Algeria 🇩🇿 | Building modern web apps</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhia%20Eddine%20Harkat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%E2%80%94%20Crafting%20seamless%20digital%20experiences&descAlignY=55&descSize=16" />
 
-<p align="center">
-  <a href="https://anisharkat.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-anisharkat.dev-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:anis.harkat.11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anis.harkat.11%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/dhia-eddine-harkat/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Anis%20Harkat-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/anisharkat" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-anisharkat-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-anisharkat.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anisharkat.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhiaeddineharkat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiaeddineharkat)
+[![X](https://img.shields.io/badge/X-_anisharkat-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_anisharkat)
+[![Email](https://img.shields.io/badge/Email-anis.harkat.11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anis.harkat.11@gmail.com)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anisharkat&label=Profile%20Views&color=0ea5e9&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/anisharkat?label=Followers&style=flat&color=22c55e" alt="followers" />
-  <img src="https://img.shields.io/github/stars/anisharkat?label=Stars&style=flat&color=f59e0b" alt="stars" />
-</p>
+</div>
 
 ---
 
-## 👨‍💻 نبذة سريعة عني
-- 🌱 أتعلم حاليًا: **Next.js**
-- 💬 اسألني عن: **Django / REST APIs**
-- ⚡ أحب البرمجة وبناء منتجات مفيدة وجميلة
-- 🌐 موقعي: **https://anisharkat.dev**
-- 📫 للتواصل: **anis.harkat.11@gmail.com**
+## 👨‍💻 About Me
+
+I'm a passionate **Full Stack Developer** who thrives at the intersection of elegant design and solid engineering. From pixel-perfect frontends to scalable backend architectures, I build products that are fast, reliable, and enjoyable to use.
+
+I believe great software is not just about working code — it's about thoughtful decisions, clean structure, and a relentless pursuit of quality.
+
+```ts
+const dhia = {
+  role      : "Full Stack Developer",
+  focus     : ["Frontend", "Backend", "API Design"],
+  currently : "Building things that matter — one commit at a time",
+  mindset   : "Clean code, strong opinions, loosely held",
+};
+```
 
 ---
 
-## 🤝 تواصل معي
-<p align="left">
-  <a href="https://codepen.io/anisharkat" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
-  <a href="https://dev.to/anis_harkat" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/_anisharkat" target="_blank">
-    <img src="https://img.shields.io/badge/X(Twitter)-111827?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/anis-harkat" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
-  <a href="https://fb.com/dhia.eddine.harkat" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/anis_harkat" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@anisharkat" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/anis_harkat_11" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</p>
-
-> 🟡 ملاحظة: عدّلت رابط YouTube ليكون بدون مسافات وبصيغة حديثة `@username`.  
-> إذا كان يوتيوبك مختلفًا، أرسل الرابط الصحيح وسأعدّله مباشرة.
-
----
-
-## 🧰 المهارات والتقنيات (Tech Stack)
+## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-0ea5e9?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7c3aed?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-2563eb?style=for-the-badge&logo=css3&logoColor=white" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🧠 Backend
-<img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-0f766e?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-22c55e?style=for-the-badge&logo=fastapi&logoColor=white" />
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
-### 🗄️ Database
-<img src="https://img.shields.io/badge/PostgreSQL-1d4ed8?style=for-the-badge&logo=postgresql&logoColor=white" />
+### 🗄️ Databases & BaaS
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
 
-### ⚙️ Tools
-<img src="https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Heroku-6d28d9?style=for-the-badge&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-2563eb?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-1e40af?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Qt-16a34a?style=for-the-badge&logo=qt&logoColor=white" />
+### 🚀 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anisharkat&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=anisharkat&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisharkat&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anisharkat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisharkat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-## 🚀 Projects (اختياري — ضع أهم مشاريعك هنا)
-- **Project Name** — وصف سريع + تقنيات مستخدمة  
-  🔗 Live: https://... | 💻 Repo: https://...
-- **Project Name** — وصف سريع + تقنيات مستخدمة  
-  🔗 Live: https://... | 💻 Repo: https://...
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anisharkat&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>“Build. Learn. Ship.”</i> 🚀
-</p>
+## ⚡ Beyond the Code
+
+When I'm not pushing commits or architecting systems, you'll probably find me:
+
+- 🐱 Spending quality time with cats — they understand clean code better than most
+- ♟️ Playing chess — the original algorithm-based game  
+- ☕ Powered by coffee — debugging is 90% caffeine and 10% luck
+- 🎵 Listening to music — the best pair-programmer that never judges your variable names
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to interesting projects, collaborations, or just a good conversation about tech (or chess openings).
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anisharkat.dev)
+[![Email Me](https://img.shields.io/badge/Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anis.harkat.11@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=anisharkat&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 </div>
